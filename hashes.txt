@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Latidos de ceniza
+
+This log tracks the cryptographic history and versioning for the song **Latidos de ceniza** (latidos-de-ceniza).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T21:37:30.803521 | `v1` | `99f438c11a388b97e357d78710106156892696d42bd9dd8c9d7beaba5e81f9ba` | `92d0ea44e6cc54ac33bb7a437fb6958b58fe4b4611728058817c2be938e365cc` | `2026-06-18_latidos-de-ceniza-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

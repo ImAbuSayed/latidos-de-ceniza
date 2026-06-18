@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-de-ceniza/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Latidos de ceniza](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-ceniza/) |
+| **Get License** | [Secure Licensing Rights for Latidos de ceniza](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-ceniza/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `99f438c11a388b97e357d78710106156892696d42bd9dd8c9d7beaba5e81f9ba` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

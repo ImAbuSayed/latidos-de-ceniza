@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-de-ceniza/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Latidos de ceniza](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-ceniza/) |
+| **Get License** | [Official Music Licensing for Latidos de ceniza](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-ceniza/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, en la oscuridad tú y yo somo' un delito
+> Ese fuego en tu mirada me tiene adicto
+> Bajo las luces de Madrid, bailando suavecito
+> Si te acercas esta noche, yo me derrito
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
